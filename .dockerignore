@@ -1,0 +1,4 @@
+node_modules/*
+Dockerfile.development
+README.md
+yarn-error.log
